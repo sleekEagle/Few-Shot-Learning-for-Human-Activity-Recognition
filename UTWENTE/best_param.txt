@@ -1,0 +1,5 @@
+tuned with UTWENTE
+
+bs :
+    samples per class = 8
+    
